@@ -25,6 +25,10 @@ automatically). Then calling the ```map``` variable will launch the footprint in
 
 The footprints have been obtained from [OpenStreetMap][8] and, if warranted, have been modified to correct for errors in their polygonal representations. We are in the process of contributing our modifications back to OpenStreetMap. OpenStreetMap is open data, licensed under the [Open Data Commons Open Database License][9], &copy; OpenStreetMap contributors. The data we present here in this repository bears the same copyright and license.
 
+## Note ##
+
+This is a clone of the [poi-footprints][10] repository, just in case the original disappears now I no longer work for Yahoo.
+
 [1]: https://dl.acm.org/authorize?N04684
 [2]: https://github.com/bthomee
 [3]: https://github.com/ayman
@@ -34,3 +38,4 @@ The footprints have been obtained from [OpenStreetMap][8] and, if warranted, hav
 [7]: https://ramnathv.github.io/rCharts/
 [8]: http://www.openstreetmap.org/
 [9]: http://opendatacommons.org/licenses/odbl/1.0/
+[10]: https://github.com/yahoo/poi-footprints
